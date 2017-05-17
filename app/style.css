@@ -101,4 +101,12 @@ p:before{
   height:300px;
   position:relative;
   padding-top: 150px;
+  width: 50%;
+  margin:10% auto;
+  height: 200px;
+  border-style: solid;
+  border-color: #6d8088;
+  border-radius: 25px;
+  word-wrap: break-word;
+  overflow: auto;
 }
